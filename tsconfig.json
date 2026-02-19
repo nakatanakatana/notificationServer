@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "types": ["vitest/globals", "vite/client"],
+
+    // General
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+
+    // Modules
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+
+    // Type Checking & Safety
+    "skipLibCheck": true,
+    "strict": true
+  },
+  "include": ["frontend/src"]
+}

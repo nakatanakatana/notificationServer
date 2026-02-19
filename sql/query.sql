@@ -1,0 +1,2 @@
+-- Add your SQL queries here
+-- See: https://sqlc.dev/
