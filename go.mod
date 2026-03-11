@@ -4,7 +4,7 @@ go 1.25.5
 
 require (
 	connectrpc.com/connect v1.19.1
-	github.com/caarlos0/env/v11 v11.3.1
+	github.com/caarlos0/env/v11 v11.4.0
 	github.com/ncruces/go-sqlite3 v0.31.1
 	golang.org/x/net v0.50.0
 	google.golang.org/protobuf v1.36.11
