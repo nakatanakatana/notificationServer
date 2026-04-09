@@ -30,7 +30,7 @@
     "solid-js": "^1.9.9"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.4.9",
+    "@biomejs/biome": "2.4.10",
     "@bufbuild/protoc-gen-es": "^2.2.2",
     "@pandacss/dev": "^1.7.2",
     "@vitest/browser-playwright": "^4.0.16",
