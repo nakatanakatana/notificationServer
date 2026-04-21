@@ -3,7 +3,7 @@ module {{MODULE_PATH}}
 go 1.25.5
 
 require (
-	connectrpc.com/connect v1.19.1
+	connectrpc.com/connect v1.19.2
 	github.com/caarlos0/env/v11 v11.4.0
 	github.com/ncruces/go-sqlite3 v0.33.1
 	golang.org/x/net v0.52.0
